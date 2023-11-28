@@ -18,7 +18,7 @@ def generate_qr_code(text, n):
 
 def main():
     # Configurar el estilo de página
-    st.set_page_config(page_title="Generador de Códigos QR - Dentista", page_icon="🍔", layout="wide", initial_sidebar_state="collapsed")
+    st.set_page_config(page_title="Generador de Códigos QR - Dentista", page_icon="🍔", layout="wide", initial_sidebar_state="expanded")
     
 
     # Diseño personalizado para el sidebar
