@@ -22,7 +22,7 @@ def main():
     
 
     # Diseño personalizado para el sidebar
-    st.sidebar.image(np.random.choice(["logo_dentista.png", "logo_dentista_2.png"]), use_column_width=True)
+    st.sidebar.image(np.random.choice(["burguer.png", "burguer.png"]), use_column_width=True)
     st.sidebar.title("Menu QR Generator")
     st.sidebar.markdown("---")
     # Texto de copyright
